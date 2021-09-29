@@ -1,0 +1,46 @@
+.main{
+	font-family: sans-serif;
+	font-size: 16px;
+	text-align: center;
+	width: 335px;
+    background: lightblue;
+    margin: 100px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 5px;
+}
+.operator{
+    border: none;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    height: 40px;
+    font-weight: bold;
+}
+.hasil{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-left: 28px;
+	margin-right: 28px;
+	margin-top: 10px;
+	background: white;
+	border-radius: 5px;
+	font-weight: bold;
+}
+button{
+	 border: none;
+	background: blue;
+	color: white;
+	height: 40px;
+	width: 280px;
+	margin: 10px 10px 5px 10px;
+	border-radius: 5px;
+	font-weight: bold;
+
+}
+input{
+	 border: none;
+	height: 40px;
+	width: 100px;
+	 border-radius: 5px;
+	 font-weight: bold;
+}
